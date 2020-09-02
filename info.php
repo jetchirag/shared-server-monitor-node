@@ -1,1 +1,3 @@
-<?php phpinfo(); ?>
+<?php 
+# I see all
+phpinfo(); ?>
