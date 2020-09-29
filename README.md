@@ -2,7 +2,6 @@
 
 TODO: Email Monitor to check delivery rate
 
-
 `conf.php`:
 ```
 <?php
