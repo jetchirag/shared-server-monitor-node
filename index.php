@@ -15,7 +15,7 @@ date_default_timezone_set('UTC');
 
 require 'conf.php';
 
-echo "VapourHost Monitor - Only for internal use";
+echo "Server Monitor - Only for internal use";
 echo "<br>";
 echo "PHP Version: " . phpversion();
 echo "<br>";
