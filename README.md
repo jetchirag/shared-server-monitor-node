@@ -6,8 +6,8 @@ TODO: Email Monitor to check delivery rate
 ```
 <?php
 
-$dbname = 'servermo_monitor';
-$dbuser = 'servermo_monitor';
+$dbname = 'servermonitor_monitor';
+$dbuser = 'servermonitor_monitor';
 $dbpass = 'DB_PASS';
 $dbhost = 'localhost';
 
