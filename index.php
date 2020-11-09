@@ -6,8 +6,6 @@
 * This script is called and monitored through external monitor
 * All monitors are registered in main script
 *
-* Owned by @VapourHost
-* Distributions not allowed
 */
 
 ini_set('display_errors', 0);
