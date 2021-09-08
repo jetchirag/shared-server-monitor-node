@@ -22,6 +22,9 @@ echo "<br>";
 echo "Web Server Check: Passed";
 echo "<br>";
 
+echo "Opcache: " . (is_array(opcache_get_status()) ? 'enabled' : 'disabled')
+echo "<br>";
+
 echo "Ioncube Loader: ";
 
 if(extension_loaded("IonCube Loader")) {     
