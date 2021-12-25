@@ -15,6 +15,8 @@ require 'conf.php';
 
 echo "Server Monitor - Only for internal use";
 echo "<br>";
+echo "Hostname: " . gethostname();
+echo "<br>";
 echo "PHP Version: " . phpversion();
 echo "<br>";
 echo "SAPI: " . php_sapi_name();
